@@ -1,0 +1,10 @@
+C:\Users\ashfi\source\repos\ECA2\Encrypted Communication Application\obj\Debug\Encrypted Communication Application.csproj.AssemblyReference.cache
+C:\Users\ashfi\source\repos\ECA2\Encrypted Communication Application\obj\Debug\Encrypted Communication Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\ashfi\source\repos\ECA2\Encrypted Communication Application\obj\Debug\Encrypted_Communication_Application.Compose.resources
+C:\Users\ashfi\source\repos\ECA2\Encrypted Communication Application\obj\Debug\Encrypted_Communication_Application.Email.resources
+C:\Users\ashfi\source\repos\ECA2\Encrypted Communication Application\obj\Debug\Encrypted_Communication_Application.Home.resources
+C:\Users\ashfi\source\repos\ECA2\Encrypted Communication Application\obj\Debug\Encrypted_Communication_Application.Inbox.resources
+C:\Users\ashfi\source\repos\ECA2\Encrypted Communication Application\obj\Debug\Encrypted_Communication_Application.Properties.Resources.resources
+C:\Users\ashfi\source\repos\ECA2\Encrypted Communication Application\obj\Debug\Encrypted_Communication_Application.SMS.resources
+C:\Users\ashfi\source\repos\ECA2\Encrypted Communication Application\obj\Debug\Encrypted Communication Application.csproj.GenerateResource.cache
+C:\Users\ashfi\source\repos\ECA2\Encrypted Communication Application\obj\Debug\Encrypted Communication Application.csproj.CoreCompileInputs.cache
